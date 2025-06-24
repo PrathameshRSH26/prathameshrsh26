@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-🚀 Passionate Web Developer focused on frontend development and creating responsive, user-centric interfaces. I'm experienced in building full-stack MERN applications and always eager to learn and collaborate on real-world projects.
+🚀 Enthusiastic web developer with a focus on front-end programming and designing user-friendly, responsive interfaces. I'm experienced in building full-stack MERN applications and always eager to learn and collaborate on real-world projects.  
 
 ---
 
