@@ -1,5 +1,7 @@
 # 👋 Hey there, I'm Prathamesh Shinde!
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
 🚀 Passionate Web Developer focused on frontend development and creating responsive, user-centric interfaces. I'm experienced in building full-stack MERN applications and always eager to learn and collaborate on real-world projects.
 
 ---
@@ -24,12 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
---
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-
---
+---
 
 ## 📈 GitHub Stats
 
@@ -46,4 +43,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:prathameshshinde912@gmail.com)
 
 ---
-
