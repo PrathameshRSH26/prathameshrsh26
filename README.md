@@ -24,6 +24,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+
+--
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
+--
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -40,4 +47,3 @@
 
 ---
 
-![Coder GIF](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif)
