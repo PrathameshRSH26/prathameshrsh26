@@ -32,6 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrathameshRSH26&show_icons=true&theme=tokyonight&cache_bust=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshRSH26&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -42,3 +43,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:prathameshshinde912@gmail.com)
 
 ---
+
+
