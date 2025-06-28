@@ -30,10 +30,11 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=PrathameshRSH26&show_icons=true&theme=tokyonight&cache_seconds=60" width="420" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshRSH26&layout=compact&theme=tokyonight&cache_seconds=60" width="420" />
-</p>
+</div>
+
 
 ---
 
