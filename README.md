@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 🌐 I'm currently working with **React, Node.js, MongoDB**, and **JavaScript**
-- 🎓 B.E. Information Technology, Trinity College of Engineering and Research, Pune
+- 🎓 Pursuing B.E. in a Information Technology from Trinity College of Engineering and Research, Pune
 - 💼 Looking to grow by contributing to impactful projects and collaborating in tech teams
 - 📬 Reach me: **prathameshshinde912@gmail.com**
 
