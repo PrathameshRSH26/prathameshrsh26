@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Prathamesh Shinde!
+# 👋 Hey there, I'm Prathamesh Shinde
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
