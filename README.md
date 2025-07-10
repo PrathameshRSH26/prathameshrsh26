@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Prathamesh Shinde!</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
-</p>
-
----
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" style="margin-top: 0;" />
 
 🚀 Enthusiastic web developer with a focus on front-end programming and designing user-friendly, responsive interfaces. I'm experienced in building full-stack MERN applications and always eager to learn and collaborate on real-world projects.
 
