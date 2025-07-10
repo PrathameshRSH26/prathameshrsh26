@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hey there, I'm Prathamesh Shinde!</h1>
+# 👋 Hey there, I'm Prathamesh Shinde!
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" style="margin-top: 0;" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-🚀 Enthusiastic web developer with a focus on front-end programming and designing user-friendly, responsive interfaces. I'm experienced in building full-stack MERN applications and always eager to learn and collaborate on real-world projects.
+🚀 Enthusiastic web developer with a focus on front-end programming and designing user-friendly, responsive interfaces. I'm experienced in building full-stack MERN applications and always eager to learn and collaborate on real-world projects.  
 
----
+
 
 ## 🧑‍💻 About Me
 
@@ -31,9 +31,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathameshRSH26&show_icons=true&theme=tokyonight&cache_seconds=60" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshRSH26&layout=compact&theme=tokyonight" width="48%" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathameshRSH26&show_icons=true&theme=tokyonight&cache_seconds=60"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshRSH26&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
 
 ---
 
