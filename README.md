@@ -2,12 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PrathameshRSH26&label=Profile%20views&color=0e75b6&style=flat-square)
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212752044-e03cd449-5d38-4037-a03d-7de20d24a8e9.gif" width="300" align="right" />
+<p align="right">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
 </p>
 
-🎯 I'm a full-stack web developer specializing in responsive UIs and MERN-based projects.  
-I enjoy building clean, interactive, and user-first web applications.
+I'm a passionate full-stack developer with a focus on building fast, scalable, and user-friendly web applications using modern tools and technologies.  
+I love turning ideas into reality with code and learning something new every day.
 
 ---
 
@@ -30,6 +30,16 @@ I enjoy building clean, interactive, and user-first web applications.
 
 ---
 
+## 📚 About Me
+
+- 🎓 I'm currently pursuing B.E. in Information Technology at **Trinity College of Engineering and Research**, Pune  
+- 💻 Working on MERN stack projects and improving React and Tailwind CSS skills  
+- 🌱 Currently exploring API integration, UI/UX workflows, and deployment tools  
+- 🤝 Looking to collaborate on meaningful projects, internships, or freelance work  
+- 📫 Reach out: **prathameshshinde912@gmail.com**
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -39,16 +49,7 @@ I enjoy building clean, interactive, and user-first web applications.
 
 ---
 
-## 📚 About Me
-
-- 🎓 Final-year B.E. (IT) student at Trinity College of Engineering and Research, Pune
-- 👨‍💻 Working on real-world projects using React, Node, MongoDB, and Tailwind CSS
-- 🔎 Exploring full-stack workflows, APIs, and modern UI/UX
-- 📬 Email me at: **prathameshshinde912@gmail.com**
-
----
-
-## 🤝 Connect With Me
+## 🔗 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/prathameshshinde2604" target="_blank">
