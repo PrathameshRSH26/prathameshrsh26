@@ -30,12 +30,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathameshRSH26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshRSH26&layout=compact&theme=tokyonight" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathameshRSH26&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshRSH26&layout=compact&theme=github_dark&hide_border=true" width="42%"/>
+</div>
 
 ---
 
