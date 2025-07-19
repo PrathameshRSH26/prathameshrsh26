@@ -3,11 +3,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=PrathameshRSH26&label=Profile%20views&color=0e75b6&style=flat-square)
 
 <p align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-I'm a passionate full-stack developer with a focus on building fast, scalable, and user-friendly web applications using modern tools and technologies.  
-I love turning ideas into reality with code and learning something new every day.
+I'm a passionate full-stack web developer with a focus on building scalable and responsive web applications.  
+I enjoy turning real-world problems into simple, clean, and interactive UIs using the MERN stack and modern frontend tools.
 
 ---
 
@@ -19,7 +19,7 @@ I love turning ideas into reality with code and learning something new every day
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -32,11 +32,10 @@ I love turning ideas into reality with code and learning something new every day
 
 ## 📚 About Me
 
-- 🎓 I'm currently pursuing B.E. in Information Technology at **Trinity College of Engineering and Research**, Pune  
-- 💻 Working on MERN stack projects and improving React and Tailwind CSS skills  
-- 🌱 Currently exploring API integration, UI/UX workflows, and deployment tools  
-- 🤝 Looking to collaborate on meaningful projects, internships, or freelance work  
-- 📫 Reach out: **prathameshshinde912@gmail.com**
+- 🎓 Pursuing B.E. in Information Technology at **Trinity College of Engineering and Research**, Pune  
+- 💻 Building full-stack MERN applications and sharpening frontend skills with React and Tailwind CSS  
+- 🔍 Exploring UI/UX design, API integration, and deployment workflows  
+- 📬 Reach out: **prathameshshinde912@gmail.com**
 
 ---
 
