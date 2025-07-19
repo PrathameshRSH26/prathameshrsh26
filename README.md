@@ -39,14 +39,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshRSH26&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
 ## 🔗 Let's Connect
 
 <p align="left">
