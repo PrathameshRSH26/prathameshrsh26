@@ -1,7 +1,6 @@
-# 👋 Hey there, I'm Prathamesh Shinde
-
 ![Profile Views](https://komarev.com/ghpvc/?username=PrathameshRSH26&label=Profile%20views&color=0e75b6&style=flat-square)
 
+# 👋 Hey there, I'm Prathamesh Shinde
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 🚀 Enthusiastic web developer with a focus on front-end programming and designing user-friendly, responsive interfaces. I'm experienced in building full-stack MERN applications and always eager to learn and collaborate on real-world projects.  
