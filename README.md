@@ -1,13 +1,14 @@
+# 👋 Hey there, I'm Prathamesh Shinde
+
 ![Profile Views](https://komarev.com/ghpvc/?username=PrathameshRSH26&label=Profile%20views&color=0e75b6&style=flat-square)
 
-# 👋 Hey there, I'm Prathamesh Shinde
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 🚀 Enthusiastic web developer with a focus on front-end programming and designing user-friendly, responsive interfaces. I'm experienced in building full-stack MERN applications and always eager to learn and collaborate on real-world projects.  
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 - 🌐 I'm currently working with **React, Node.js, MongoDB**, and **JavaScript**
 - 🎓 Pursuing B.E. in Information Technology from Trinity College of Engineering and Research
@@ -16,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -29,7 +30,7 @@
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrathameshRSH26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -38,7 +39,7 @@
 
 ---
 
-## 🔥 Streak Stats
+# 🔥 Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshRSH26&theme=tokyonight&hide_border=false" />
@@ -46,7 +47,7 @@
 
 ---
 
-## 🔗 Let's Connect
+# 🔗 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/prathameshshinde2604" target="_blank">
