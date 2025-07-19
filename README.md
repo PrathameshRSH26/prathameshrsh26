@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌐 I'm currently working with **React, Node.js, MongoDB**, and **JavaScript**
+- 🌐 I'm currently working with **React, Tailwind CSS, Node.js, MongoDB**, and **JavaScript**
 - 🎓 Pursuing B.E. in Information Technology from Trinity College of Engineering and Research
 - 💼 Looking to grow by contributing to impactful projects and collaborating in tech teams
 - 📬 Reach me: **prathameshshinde912@gmail.com**
