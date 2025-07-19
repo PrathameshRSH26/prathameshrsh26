@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-🚀 Enthusiastic web developer with a focus on front-end programming and designing user-friendly, responsive interfaces. I'm experienced in building full-stack MERN applications and always eager to learn and collaborate on real-world projects.  
+🚀 Final-year IT engineering student passionate about front-end development and creating clean, responsive user interfaces. Currently learning to build full-stack MERN applications and always excited to explore new technologies and work on real-world projects with others.
 
 ---
 
