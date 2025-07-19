@@ -1,45 +1,54 @@
-# 👋 Hey there, I'm Prathamesh Shinde
+# 👋 Hi, I'm Prathamesh Shinde
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PrathameshRSH26&label=Profile%20views&color=0e75b6&style=flat-square)
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212752044-e03cd449-5d38-4037-a03d-7de20d24a8e9.gif" width="300" align="right" />
+</p>
 
-🚀 Enthusiastic web developer with a focus on front-end programming and designing user-friendly, responsive interfaces. I'm experienced in building full-stack MERN applications and always eager to learn and collaborate on real-world projects.  
-
----
-
-## 🧑‍💻 About Me
-
-- 🌐 I'm currently working with **React, Tailwind CSS, Node.js, MongoDB**, and **JavaScript**
-- 🎓 Pursuing B.E. in Information Technology from Trinity College of Engineering and Research
-- 💼 Looking to grow by contributing to impactful projects and collaborating in tech teams
-- 📬 Reach me: **prathameshshinde912@gmail.com**
+🎯 I'm a full-stack web developer specializing in responsive UIs and MERN-based projects.  
+I enjoy building clean, interactive, and user-first web applications.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Tech Stack
 
+<div align="left">
+  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathameshRSH26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshRSH26&layout=compact&theme=tokyonight" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathameshRSH26&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshRSH26&layout=compact&theme=github_dark&hide_border=true" width="42%"/>
+</div>
 
 ---
 
-## 🔗 Let's Connect
+## 📚 About Me
+
+- 🎓 Final-year B.E. (IT) student at Trinity College of Engineering and Research, Pune
+- 👨‍💻 Working on real-world projects using React, Node, MongoDB, and Tailwind CSS
+- 🔎 Exploring full-stack workflows, APIs, and modern UI/UX
+- 📬 Email me at: **prathameshshinde912@gmail.com**
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/prathameshshinde2604" target="_blank">
