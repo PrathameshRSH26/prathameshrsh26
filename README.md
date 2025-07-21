@@ -19,48 +19,16 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-    <br/><sub><b>HTML</b></sub>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-    <br/><sub><b>CSS</b></sub>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <br/><sub><b>JavaScript</b></sub>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <br/><sub><b>React</b></sub>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block; margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-    <br/><sub><b>Tailwind</b></sub>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-    <br/><sub><b>Next.js</b></sub>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-    <br/><sub><b>Node.js</b></sub>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-    <br/><sub><b>MongoDB</b></sub>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block; margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <br/><sub><b>Git</b></sub>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-    <br/><sub><b>VS Code</b></sub>
-  </a>
-</p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
