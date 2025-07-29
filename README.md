@@ -2,12 +2,19 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PrathameshRSH26&label=Profile%20views&color=0e75b6&style=flat-square)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
+<table>
+<tr>
+<td>
 
 🚀 Final-year IT engineering student passionate about front-end development and creating clean, responsive user interfaces.  
 Currently learning to build full-stack MERN applications and always excited to explore new technologies and work on real-world projects with others.
+
+</td>
+<td>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -20,6 +27,7 @@ Currently learning to build full-stack MERN applications and always excited to e
 ---
 
 ## 🛠️ Tech Stack & Tools
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
