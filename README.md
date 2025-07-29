@@ -11,7 +11,7 @@ Currently learning to build full-stack MERN applications and always excited to e
 
 ## 💡 About Me
 - 🌐 I'm currently working with **React, Tailwind CSS, Node.js, MongoDB**, **JavaScript**, **Next.js**, and **TypeScript**
-- 🎓 Pursuing B.E. in Information Technology from Trinity College of Engineering and Research
+- 🎓 Pursuing B.E. in Information Technology **from Trinity College of Engineering and Research**
 - 💼 Looking to grow by contributing to impactful projects and collaborating in tech teams
 - 📬 Reach me: **prathameshshinde912@gmail.com**
 
