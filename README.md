@@ -1,7 +1,4 @@
 # 👋 Hey there, I'm Prathamesh Shinde
-
-![Profile Views](https://komarev.com/ghpvc/?username=PrathameshRSH26&label=Profile%20views&color=0e75b6&style=flat-square)
-
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
 
 🚀 Final-year IT engineering student passionate about front-end development and creating clean, responsive user interfaces. Currently learning to build full-stack MERN applications and always excited to explore new technologies and work on real-world projects with others.
@@ -29,6 +26,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=PrathameshRSH26&label=Profile%20views&color=0e75b6&style=flat-square)
+
 
 ## 📊 GitHub Stats
 
