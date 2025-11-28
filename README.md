@@ -12,8 +12,6 @@
 - 🎓 Pursuing B.E. in Information Technology from Trinity College of Engineering and Research  
 - 💼 Looking to grow by contributing to impactful projects and collaborating in tech teams  
 - 📬 Reach me at: **prathameshshinde912@gmail.com**
-
----
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -41,7 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
----
 
 ## 📊 GitHub Stats
 <p align="center">
