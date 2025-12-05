@@ -41,6 +41,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshRSH26&theme=github_dark&hide_border=true" alt="PrathameshRSH26" />
   <img 
     src="https://github-readme-stats.vercel.app/api?username=PrathameshRSH26&show_icons=true&theme=github_dark&count_private=true&hide_border=true" 
     width="48%" 
