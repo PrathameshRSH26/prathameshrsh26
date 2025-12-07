@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PrathameshRSH26&label=Profile%20Views&color=0e75b6&style=flat" alt="view count" />
+</p>
+
 # 👋 Hey there, I'm Prathamesh Shinde
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
