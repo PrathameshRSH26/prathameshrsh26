@@ -51,10 +51,11 @@
 
 ## 🔗 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/prathameshshinde2604" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/prathameshshinde2604">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:prathameshshinde912@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
